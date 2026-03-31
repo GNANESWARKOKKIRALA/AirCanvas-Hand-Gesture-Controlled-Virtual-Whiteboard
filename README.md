@@ -57,34 +57,6 @@ Air Canvas is a computer vision application that lets users draw and interact wi
 - Python 3.8 or later
 - Anaconda (recommended)
 
----
-
-## ⚙️ Installation & Setup
-
-### 1. Clone or Download the project
-```bash
-git clone https://github.com/your-username/air-canvas.git
-cd air-canvas
-```
-
-### 2. Create Conda Environment
-```bash
-conda create -n aircanvas python=3.8
-conda activate aircanvas
-```
-
-### 3. Install Dependencies
-```bash
-pip install opencv-python mediapipe numpy
-```
-
-### 4. Run the Application
-```bash
-python main.py
-```
-
----
-
 ## 📁 Project Structure
 
 ```
